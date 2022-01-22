@@ -1,3 +1,14 @@
 div {
-  border: 1px solid black
+  border: 1px solid black;
+  background-color: Gray
+}
+.chicken {
+  background-color: Violet
+}
+.beef {
+  background-color: Red;
+  color: White
+}
+.sushi {
+  background-color: Yellow
 }
