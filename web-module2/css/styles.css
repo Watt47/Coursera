@@ -2,8 +2,12 @@ div {
   border: 1px solid black;
   background-color: Gray
 }
+h1 {
+  text-align: center;
+}
 .chicken {
-  background-color: Violet
+  background-color: Violet;
+  text-align: center;
 }
 .beef {
   background-color: Red;
