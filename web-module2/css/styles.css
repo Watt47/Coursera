@@ -5,8 +5,8 @@ div {
 h1 {
   text-align: center;
 }
-.dish {
-  display: table;
+span {
+  display: block;
   position: relative;
   right: 0px;
 }
