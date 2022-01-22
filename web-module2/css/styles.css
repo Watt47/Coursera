@@ -5,6 +5,9 @@ div {
 h1 {
   text-align: center;
 }
+.dish {
+  display: table;
+}
 .chicken {
   background-color: Violet;
   text-align: center;
