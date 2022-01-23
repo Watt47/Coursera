@@ -1,6 +1,7 @@
 div {
   border: 1px solid black;
-  background-color: Gray
+  background-color: Gray;
+  position: relative;
 }
 h1 {
   text-align: center;
