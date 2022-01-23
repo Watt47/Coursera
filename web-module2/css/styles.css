@@ -19,13 +19,13 @@ h1 {
 }
 span {
     border: 1px solid black;
-
+font-size: 125%;
   display: block;
   width: 100px;
   position: absolute;
   right: -1px;
   top: -1px;
-}}
+}
 .chicken {
   background-color: Violet;
   text-align: center;
