@@ -1,12 +1,15 @@
 * {
   box-sizing: border-box;
 }
+div.grid {
+    float: left;
+  width: 33.33%;
+  
+}
 div.dish {
   border: 1px solid black;
   background-color: Gray;
   position: relative;
-    float: left;
-  width: 33.33%;
 }
 .desc {
   padding: 20px;
