@@ -23,8 +23,9 @@ span {
   display: block;
   width: 100px;
   position: absolute;
-  right: 0px;
-}
+  right: -1px;
+  top: -1px;
+}}
 .chicken {
   background-color: Violet;
   text-align: center;
