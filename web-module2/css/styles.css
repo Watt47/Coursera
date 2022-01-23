@@ -4,7 +4,7 @@
 div.grid {
     float: left;
   width: 33.33%;
-  
+  padding: 20px;
 }
 div.dish {
   border: 1px solid black;
