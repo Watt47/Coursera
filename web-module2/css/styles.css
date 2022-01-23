@@ -6,7 +6,7 @@ div.grid {
   width: 100%;//mobiles
   padding: 21px;
 }
-@media only screen and (min-width: 768px )  {
+@media only screen and (min-width: 768px ) and (max-width: 991px)  {
   #cell1 , #cell2 {
   /* For tablets: */
   width: 50%;
