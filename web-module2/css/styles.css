@@ -17,8 +17,10 @@ span {
 }
 .beef {
   background-color: Red;
-  color: White
+  color: White;
+  text-align: center;
 }
 .sushi {
-  background-color: Yellow
+  background-color: Yellow;
+  text-align: center;
 }
