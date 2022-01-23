@@ -1,12 +1,15 @@
 * {
   box-sizing: border-box;
 }
-div {
+div.dish {
   border: 1px solid black;
   background-color: Gray;
   position: relative;
     float: left;
   width: 33.33%;
+}
+.desc {
+  padding: 20px;
 }
 h1 {
   text-align: center;
